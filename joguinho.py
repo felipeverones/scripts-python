@@ -12,7 +12,8 @@ def andar(direcao):
         player['y'] -= 1
     elif direcao == 's':
         player['y'] += 1
-        
+
+
 while True:
     os.system('cls')
     

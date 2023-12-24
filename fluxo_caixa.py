@@ -1,5 +1,5 @@
 fluxo_caixa = []
-
+ 
 print("______________")
 print("FLUXO DE CAIXA")
 print("--------------")

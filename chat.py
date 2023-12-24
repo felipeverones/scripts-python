@@ -1,7 +1,6 @@
 import os
 import platform
 
-
 mensagens = []
 
 nome = input("Nome: ")

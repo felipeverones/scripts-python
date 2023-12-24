@@ -2,6 +2,7 @@ import pyautogui
 import pydirectinput
 import time
 
+
 # Configuração de teclas (ajuste conforme a configuração do seu emulador)
 UP = 'up'
 DOWN = 'down'

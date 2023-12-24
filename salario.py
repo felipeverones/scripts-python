@@ -1,5 +1,6 @@
 salario = float(input("Informe o salário: "))
 
+
 if salario <= 4000:
     print('Programador Júnior')
 elif salario > 4000 and salario <= 7000:
